@@ -13,6 +13,7 @@ secrets.json
 # Папки с секретами
 secrets/
 credentials/
+tasks/
 
 #Папки настроек
 .roo/
